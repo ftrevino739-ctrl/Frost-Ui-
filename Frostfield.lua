@@ -595,7 +595,7 @@ local function buildChrome(opts)
 	footer.Font = Enum.Font.Gotham
 	footer.TextSize = 10
 	footer.TextColor3 = Theme.TextMuted
-	footer.Text = "  RAYFIELD INTERFACE"
+	footer.Text = "  Frost Hub"
 	footer.TextXAlignment = Enum.TextXAlignment.Left
 	footer.ZIndex = 2
 	footer.Parent = window
